@@ -18,7 +18,7 @@
 
 - 🔍 **Passionnée** par la protection des systèmes et des données
 - 🌐 **Domaines d'intérêt** : Réseaux, Bases de données, IoT, Linux, Sécurité Web, Analyse & Détection d'Anomalies
-- 🎯 **Objectif** : Obtenir un stage PFE 2027, explorer, aider et avoir un impact positif en cybersécurité
+- 🎯 **Objectif** : Mettre en pratique mes compétences en protection des systèmes et des données, contribuer à des infrastructures sûres et évoluer au sein d'une équipe experte en cybersécurité.
 - 🛡️ **Approche** : Comprendre le fonctionnement, identifier les failles, proposer des solutions sécurisées et apprenantes
 
 ---
