@@ -71,7 +71,7 @@
 | **1** | 🔌 **Sécurité IoT** | Connexion sécurisée entre ESP32 et serveur avec chiffrement TLS. Authentification et échange de données chiffré. | `ESP32` `MicroPython` `TLS` `Python` | [🔗 Voir le dépôt](https://github.com/MolkaHassine/iotguard) |
 | **2** | 🛡️ **Défense Web** | Application web sécurisée avec protection contre l'injection SQL, authentification renforcée, gestion de sessions et journalisation. | `PHP` `Symfony` `MySQL` `HTML/CSS` `JavaScript` | [🔗 Voir le dépôt](https://github.com/MolkaHassine/secureweb) |
 | **3** | 🌐 **Labo Réseau** | Cartographie réseau, surveillance en temps réel, détection d'appareils inconnus et identification de services exposés. | `Python` `Nmap` `Wireshark` `Linux` `VirtualBox` | [🔗 Voir le dépôt](https://github.com/MolkaHassine/netscope) |
-| **4** | 📈 **Analyse de Données & Détection d'Anomalies** | Traitement et analyse de logs réseau/applicatifs avec Python/R. Détection de comportements anormaux et visualisation. | `Python` `Pandas` `NumPy` `Matplotlib` `R` `SQL` | [🔗 Voir le dépôt](https://github.com/MolkaHassine) |
+| **4** | 📈 **Analyse de Données & Détection d'Anomalies** | Traitement et analyse de logs réseau/applicatifs avec Python/R. Détection de comportements anormaux et visualisation. | `Python` `Pandas` `NumPy` `Matplotlib` `R` `SQL` | [🔗 Voir le dépôt](https://github.com/MolkaHassine/cybercore-charts) |
 
 ---
 
