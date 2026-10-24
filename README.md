@@ -7,7 +7,7 @@
 📍 **Sousse, Tunisie**
 
 [![GitHub](https://img.shields.io/badge/GitHub-MolkaHassine-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MolkaHassine)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-À%20compléter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Molka%20Hassine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molka-hassine/)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Protection+des+syst%C3%A8mes+%26+des+donn%C3%A9es;R%C3%A9seaux+%7C+IoT+%7C+S%C3%A9curit%C3%A9+Web;Linux+%7C+Analyse+%26+D%C3%A9tection)
 
@@ -18,9 +18,9 @@
 ## 👩‍💻 À Propos
 
 - 🔍 **Passionnée** par la protection des systèmes et des données
-- 🌐 **Domaines d'intérêt** : Réseaux, Bases de données, IoT, Linux, Sécurité Web
-- 🎯 **Objectif** : Obtenir un stage PFE 2027, puis construire une carrière solide en cybersécurité
-- 🛡️ **Approche** : Comprendre le fonctionnement, identifier les failles, proposer des solutions sécurisées
+- 🌐 **Domaines d'intérêt** : Réseaux, Bases de données, IoT, Linux, Sécurité Web, Analyse & Détection d'Anomalies
+- 🎯 **Objectif** : Obtenir un stage PFE 2027, explorer, aider et avoir un impact positif en cybersécurité
+- 🛡️ **Approche** : Comprendre le fonctionnement, identifier les failles, proposer des solutions sécurisées et apprenantes
 
 ---
 
@@ -78,16 +78,16 @@
 ## 🎯 Objectifs & Contact
 
 - 🗓️ **Disponibilité** : Ouverte aux stages PFE 2027
-- 💼 **Cible** : Stage en Cybersécurité (Sécurité Web, Réseaux/SOC, Sécurité IoT)
-- 📧 **Contact** : À ajouter
+- 💼 **Cible** : Stage en Cybersécurité (Sécurité Web, Réseaux/SOC, Sécurité IoT, Analyse & Détection)
+- 📬 **Contact** : [molka.hassine@polytechnicien.tn](mailto:molka.hassine@polytechnicien.tn)
 - 🔗 **GitHub** : [github.com/MolkaHassine](https://github.com/MolkaHassine)
-- 💼 **LinkedIn** : [À compléter]
+- 💼 **LinkedIn** : [linkedin.com/in/molka-hassine](https://www.linkedin.com/in/molka-hassine/)
 
 ---
 
 ## 🗃️ .gitignore Recommandé (Projets Cyber)
 
-Copiez ce fichier `.gitignore` à la racine de vos projets pour éviter de commiter des données sensibles :
+Fichier `.gitignore` recommandé à la racine de vos projets pour éviter de commiter des données sensibles :
 
 ```gitignore
 # Environnements & Secrets
