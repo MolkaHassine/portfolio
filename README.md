@@ -74,11 +74,12 @@
 
 ---
 
-## 🎯 Objectifs & Contact
+## 🎯 Ce que je recherche
 
-- 🗓️ **Disponibilité** : Ouverte aux stages PFE 2027
-- 💼 **Cible** : Stage en Cybersécurité (Sécurité Web, Réseaux/SOC, Sécurité IoT, Analyse & Détection)
-- 📬 **Contact** : [molka.hassine@polytechnicien.tn](mailto:molka.hassine@polytechnicien.tn)
+- **Durée** : Un stage de 4 à 6 mois pour mettre en œuvre des solutions de cybersécurité concrètes
+- **Domaines** : Travailler sur des projets de défense (protection d'applications, surveillance réseau, sécurité IoT)
+- **Ambition** : Rejoindre une équipe qui forme et partage son expertise — objectif : carrière internationale
+- 📧 **Disponible immédiatement** · [molka.hassine@polytechnicien.tn](mailto:molka.hassine@polytechnicien.tn)
 - 🔗 **GitHub** : [github.com/MolkaHassine](https://github.com/MolkaHassine)
 
 
